@@ -112,6 +112,9 @@ The project includes basic accessibility features such as:
 
 ---
 
+## Output
+<img width="1897" height="871" alt="Image" src="https://github.com/user-attachments/assets/72081efc-38f8-4953-8e0d-09ec45f11989" />
+
 ## 📂 Project Structure
 
 ```text
